@@ -24,7 +24,6 @@ The dashboard provides a comprehensive view of key HR metrics such as attendance
 ---
 
 ##  Dashboard Preview
-Include a screenshot of your Power BI dashboard below 👇  
 
 ![HR Analytics Dashboard](images/hr_analytics_dashboard.png)
 
